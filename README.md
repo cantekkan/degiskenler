@@ -1,1 +1,3 @@
 # degiskenler
+www.patika.dev
+
